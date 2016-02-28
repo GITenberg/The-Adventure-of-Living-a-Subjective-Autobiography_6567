@@ -1,0 +1,26 @@
+_repo: The-Adventure-of-Living-a-Subjective-Autobiography_6567
+creator:
+  author:
+    agent_name: Strachey, John St. Loe
+    aliases:
+    - Strachey, J. St. Loe
+    - St. Loe Strachey, John
+    birthdate: 1860
+    deathdate: 1927
+    gutenberg_agent_id: '2087'
+    url: http://www.gutenberg.org/2009/agents/2087
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Strachey, John St. Loe, 1860-1927'
+- !lcsh 'Journalists -- Great Britain -- Biography'
+- !lcc 'PN'
+title: 'The Adventure of Living : a Subjective Autobiography'
+url: http://www.gutenberg.org/ebooks/6567
